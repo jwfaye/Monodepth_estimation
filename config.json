@@ -1,0 +1,11 @@
+{
+  "dataset_name": "diode",
+  "model_name": "dgunet",
+  "loss_type": "hist",
+  "data_root": "",
+  "output_root": "",
+  "num_workers": 2,
+  "batch_size": 1,
+  "lr": 0.001,
+  "epochs": 1500
+}
